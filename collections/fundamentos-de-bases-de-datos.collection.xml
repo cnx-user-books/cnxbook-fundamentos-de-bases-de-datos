@@ -1,15 +1,16 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="es" authors="Miguel-Angel Sicilia">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10570</md:content-id>
     <md:title>Fundamentos de bases de datos</md:title>
     <md:language>es</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>1773918e-0787-4763-9cb9-e10d9f0baedf</md:uuid>
-<md:slug>fundamentos-de-bases-de-datos</md:slug>
-</metadata>
+    <md:slug>fundamentos-de-bases-de-datos</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Conceptos básicos</md:title>
+      <md:title>Conceptos b&#xE1;sicos</md:title>
       <col:content>
         <col:module document="m17423"/>
       </col:content>
